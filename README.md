@@ -1,0 +1,2 @@
+# dotzshrc
+my .zshrc
